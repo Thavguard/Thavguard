@@ -1,2 +1,2 @@
 # Thavguard
-Web Developer on React
+Web Developer
